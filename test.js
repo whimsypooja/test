@@ -11,6 +11,13 @@ function Div(a, b){
 }
 const div = Div(6, 3);
 console.log(div)
+
+function Mul(a, b){
+    return a * b;
+}
+const mul = Sum(3, 4);
+console.log(mul)
+
 const sum = Sum(3, 4);
 console.log(sum)
 const sub = Sum(3, 5);
