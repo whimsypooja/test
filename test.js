@@ -1,5 +1,14 @@
 function Sum(a, b){
-return a + b;
+    return a + b;
 }
-const result = Sum(3, 4);
-console.log(result)
+
+
+function Sub(a, b){
+    return a - b;
+}
+
+
+const sum = Sum(3, 4);
+console.log(sum)
+const sub = Sum(3, 5);
+console.log(sub)
